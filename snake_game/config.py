@@ -1,0 +1,15 @@
+# -- snake constants --
+GRID_SIZE = 10
+CELL_SIZE = 80
+START_HUNGER = 150
+
+# -- brain constants --
+INPUT_NEURONS = 24
+HIDDEN_NEURONS = 16
+OUTPUT_NEURONS = 4
+
+# -- genetic algorithm constants --
+POPULATION_SIZE = 100
+MUTATION_RATE = 0.1
+ELITISM_COUNT = 10
+TOURNAMENT_SIZE = 5
